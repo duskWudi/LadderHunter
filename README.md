@@ -3,7 +3,7 @@
 This repository is shared for educational and reference purposes only. It is not financial advice! The strategy is no longer actively used, and any use, modification, or deployment is entirely at your own risk.
 
 
-Live Intraday Ladder Pattern Trading Dashboard
+Live Intraday signal scanner
 
 Python-based trading research dashboard that uses Polygon’s REST API to fetch 1-minute OHLCV stock data and detect intraday ladder-pattern price movements. The system scans multiple tickers concurrently, evaluates rolling time windows, and filters signals using price movement, volume, monotonic ratio, efficiency, R² trend fit, and candle-direction consistency.
 
